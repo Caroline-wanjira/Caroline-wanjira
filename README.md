@@ -7,10 +7,10 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- "Python,java script
+- python,java script
 
 ## Current Projects
-- [Project name](link) — short description
+personal budget tracker
 
 ## How to Reach Me
 - Email:cwanjira240@gmail.com 
