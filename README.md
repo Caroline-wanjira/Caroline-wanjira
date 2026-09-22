@@ -17,4 +17,4 @@ personal budget tracker
 - LinkedIn: https://www.linkedin.com/in/caroline-wanjira-19a023285
 
 ##links
-[website](https://Caroline-wanjira.github.io
+(https://Caroline-wanjira.github.io
