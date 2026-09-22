@@ -23,8 +23,8 @@
 
 #### Tasks
 
-- [ × ] learning html basics and creating a simple Web page
-- [ × ] learning markdown and creating links and headings
+- [x] learning html basics and creating a simple Web page
+- [x] learning markdown and creating links and headings
 - [ ] learning css
 - [ ] learning git 
 
