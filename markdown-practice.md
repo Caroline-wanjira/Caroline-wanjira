@@ -33,7 +33,7 @@ print("my name is ,Caroline!")
 ```
 
 #### Quote
-> The privilege of a life time is to become who you are truly are
+> The privilege of a life time is to become who you truly are
 
 #### About Me
-**I am so***passionate* about learning ~~programming~~ and use my skills to `create solutions `
+**I am so** *passionate* about learning ~~programming~~ and use my skills to `create solutions `
