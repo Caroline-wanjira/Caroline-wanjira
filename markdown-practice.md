@@ -12,19 +12,23 @@
 1.check what has changed
 2. Add the changes
 3. Commit the changes
+
 ###### Table
 | Tool  |   Purpose            |       Links.                         |
 |-------|----------------------|--------------------------------------|
 |Github | store and share code | [github](https://github.com)         |
 |Mdn.   | learning html, css.  | [mdn](https://developer.mozilla.org/)|
+
 #######Tasks
 -[×] learning html basics and creating a simple Web page
 -[×] learning markdown and creating links and headings
 -[ ] learning css
 -[ ] learning git 
+
 ```python
 print("my name is ,Caroline!")
 ```
+
 #### Quote
 > The privilege of a life time is to become who you are truly are
 
