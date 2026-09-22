@@ -5,10 +5,12 @@
 [my github profile](https://github.com/Caroline-wanjira)
 [website](https://Caroline-wanjira.github.io)
 ##### Unordered Lists
+
 -Web development 
 -java script
   -python
 ###### Ordered List
+
 1.check what has changed
 2. Add the changes
 3. Commit the changes
@@ -19,7 +21,8 @@
 |Github | store and share code | [github](https://github.com)         |
 |Mdn.   | learning html, css.  | [mdn](https://developer.mozilla.org/)|
 
-#######Tasks
+###### Tasks
+
 -[×] learning html basics and creating a simple Web page
 -[×] learning markdown and creating links and headings
 -[ ] learning css
