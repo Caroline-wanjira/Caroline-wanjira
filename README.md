@@ -19,6 +19,6 @@ personal budget tracker
 ## links
 https://Caroline-wanjira.github.io
 
-## Setup
+## Git Setup
 user.name=Caroline-wanjira
 user.email=cwanjira240@gmail.com
