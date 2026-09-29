@@ -2,12 +2,14 @@
 
 ## About Me
 - I'm currently learning programming at Wecan Academy.
-- I'm interested in Computer Science.
+- I'm am exploring the world of Computer Science and programmimg.
 - I'm looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
 - Git and GitHub
-- python,java script
+- python
+- java script
+- web development
 
 ## Current Projects
 personal budget tracker
