@@ -19,7 +19,8 @@ personal budget tracker
 - LinkedIn: https://www.linkedin.com/in/caroline-wanjira-19a023285
 
 ## links
-https://Caroline-wanjira.github.io
+[Caroline-wanjira github profile](https://Caroline-wanjira.github.io)
+[Caroline-wanjira markdown-practice.md]
 
 ## Git Setup
 user.name=Caroline-wanjira
