@@ -23,5 +23,5 @@ personal budget tracker
 - [Caroline-wanjira markdown-practice.md](https://github.com/Caroline-wanjira/Caroline-wanjira/blob/main/markdown-practice.md)
 
 ## Git Setup
-user.name=Caroline-wanjira
-user.email=cwanjira240@gmail.com
+- user.name=Caroline-wanjira
+- user.email=cwanjira240@gmail.com
