@@ -20,7 +20,7 @@ personal budget tracker
 
 ## links
 [Caroline-wanjira github profile](https://Caroline-wanjira.github.io)
-[Caroline-wanjira markdown-practice.md]
+[Caroline-wanjira markdown-practice.md](https://github.com/Caroline-wanjira/Caroline-wanjira/blob/main/markdown-practice.md)
 
 ## Git Setup
 user.name=Caroline-wanjira
