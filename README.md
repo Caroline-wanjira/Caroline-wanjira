@@ -16,7 +16,7 @@ personal budget tracker
 
 ## How to Reach Me
 - Email:cwanjira240@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/caroline-wanjira-19a023285
+- LinkedIn: https://www.linkedin.com/in/caroline-wanjira-19a123285
 
 ## links
 - [Caroline-wanjira github profile](https://Caroline-wanjira.github.io)
