@@ -22,6 +22,7 @@ personal budget tracker
 - [Caroline-wanjira github profile](https://Caroline-wanjira.github.io)
 - [Caroline-wanjira markdown-practice.md](https://github.com/Caroline-wanjira/Caroline-wanjira/blob/main/markdown-practice.md)
 - [Team Repository](https://github.com/Wesala-crypto/-iyf-s12-week-00-team-Wesala-crypto)
+- [Week 1 Repository]((https://github.com/Caroline-wanjira/-iyf-s12-week-01-team-Caroline-wanjira)
 
 ## Git Setup
 - user.name=Caroline-wanjira
